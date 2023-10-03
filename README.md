@@ -1,4 +1,5 @@
-# **Skynet portal migration guide - Updated: October 3, 2023**
+# **Skynet portal migration guide**
+Updated: October 3, 2023
 
 It's been some time since the shutdown of Skynet Labs and this guide no longer serves a purpose so it was updated to reflect this reality.
 
